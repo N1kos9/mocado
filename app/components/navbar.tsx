@@ -19,7 +19,7 @@ const Navbar = () => {
     <header className="fixed top-[20px] left-0 w-full z-50">
       <div className="nav container flex justify-between items-center bg-textColor rounded-3xl py-[17px] px-[20px]">
         <Link href="" className="logo text-[1.4rem] bold text-containerCOlor">
-          Q.Cafe
+          Mocado
         </Link>
         <div className="navbar flex items-center gap-x-6">
           <Link
