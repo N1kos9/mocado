@@ -60,7 +60,7 @@ const Navbar = () => {
             </i>
           </Link>
           <Link href="">
-            <i className="bx bx-shopping-bag">
+            <i className="bx bx-shopping-bag bx1">
               <MdOutlineShoppingBag />
             </i>
           </Link>
