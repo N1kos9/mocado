@@ -20,7 +20,7 @@ const hero = () => {
           href=""
           className="btn max-w-[160px] p-4 flex items-center justify-center gap-x-2 rounded-[2rem] bg-textColor"
         >
-          <span className="font-poppins text-bgColor uppercase">Shop Now</span>
+          <span className="font-poppins text-bgColor uppercase">Shop Now.</span>
           <i className="bx bx-up-arrow-alt">
             <FaArrowUp className="bg-secondColor text-[20px] text-bgColor p-1 rounded-full" />
           </i>
